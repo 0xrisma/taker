@@ -2732,3 +2732,15 @@
 4/3/2025 | 12:51:04 AM | WARN | Retrying... (0 attempts left) 
 4/3/2025 | 12:51:07 AM | ERROR | Failed to get nonce after retries: Request failed with status code 521
 4/3/2025 | 12:51:07 AM | ERROR | Failed to retrieve nonce for wallet: 0x09172Ac49EcDd1488957b2F4dFf4D2F90412B93e 
+4/3/2025 | 4:13:02 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/3/2025 | 4:13:02 AM | INFO | Start process for wallet 0x09172Ac49EcDd1488957b2F4dFf4D2F90412B93e 
+4/3/2025 | 4:13:03 AM | INFO | Trying To Login for wallet: 0x09172Ac49EcDd1488957b2F4dFf4D2F90412B93e 
+4/3/2025 | 4:13:03 AM | INFO | Login successful... 
+4/3/2025 | 4:13:03 AM | INFO | Trying to check user info... 
+4/3/2025 | 4:13:04 AM | INFO | User ID: 102959352 | Twitter: @rismaawardani | Total Points: 1008000 
+4/3/2025 | 4:13:04 AM | INFO | Trying to check user miner status... 
+4/3/2025 | 4:13:05 AM | INFO | Last mining time: 4/1/2025, 8:12:21 PM
+4/3/2025 | 4:13:05 AM | INFO | Trying to start Mining for wallet: 0x09172Ac49EcDd1488957b2F4dFf4D2F90412B93e 
+4/3/2025 | 4:13:06 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/3/2025 | 4:13:06 AM | INFO | Trying to activate mining on-chain for wallet: 0x09172Ac49EcDd1488957b2F4dFf4D2F90412B93e 
+4/3/2025 | 4:13:17 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x706e0d069890e9be9ed734c5b0e2e7271d9aaf3c64ead7cc244bc06bf2bad0a9 

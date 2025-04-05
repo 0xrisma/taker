@@ -2864,3 +2864,15 @@
 4/5/2025 | 8:12:27 AM | INFO | Trying to check user miner status... 
 4/5/2025 | 8:12:28 AM | INFO | Last mining time: 4/4/2025, 8:14:36 AM
 4/5/2025 | 8:12:28 AM | WARN | Mining already started, next mining time is: 4/5/2025, 8:14:36 AM
+4/5/2025 | 12:17:26 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/5/2025 | 12:17:26 PM | INFO | Start process for wallet 0x09172Ac49EcDd1488957b2F4dFf4D2F90412B93e 
+4/5/2025 | 12:17:27 PM | INFO | Trying To Login for wallet: 0x09172Ac49EcDd1488957b2F4dFf4D2F90412B93e 
+4/5/2025 | 12:17:27 PM | INFO | Login successful... 
+4/5/2025 | 12:17:27 PM | INFO | Trying to check user info... 
+4/5/2025 | 12:17:28 PM | INFO | User ID: 102959352 | Twitter: @rismaawardani | Total Points: 1056000 
+4/5/2025 | 12:17:28 PM | INFO | Trying to check user miner status... 
+4/5/2025 | 12:17:33 PM | INFO | Last mining time: 4/4/2025, 8:14:36 AM
+4/5/2025 | 12:17:33 PM | INFO | Trying to start Mining for wallet: 0x09172Ac49EcDd1488957b2F4dFf4D2F90412B93e 
+4/5/2025 | 12:17:38 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/5/2025 | 12:17:38 PM | INFO | Trying to activate mining on-chain for wallet: 0x09172Ac49EcDd1488957b2F4dFf4D2F90412B93e 
+4/5/2025 | 12:18:00 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x1d653251a9979e9d8e45ffc0c1b02025f3f181fb074b5a4d82bde81d83c26bff 

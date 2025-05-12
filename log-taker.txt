@@ -4990,3 +4990,15 @@
 5/12/2025 | 12:21:41 PM | INFO | Trying to activate mining on-chain for wallet: 0x09172Ac49EcDd1488957b2F4dFf4D2F90412B93e 
 5/12/2025 | 12:21:42 PM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"502 Bad Gateway"},"shortMessage":"server response 502 Bad Gateway"}
 5/12/2025 | 12:21:42 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/12/2025 | 4:13:57 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/12/2025 | 4:13:57 PM | INFO | Start process for wallet 0x09172Ac49EcDd1488957b2F4dFf4D2F90412B93e 
+5/12/2025 | 4:13:58 PM | INFO | Trying To Login for wallet: 0x09172Ac49EcDd1488957b2F4dFf4D2F90412B93e 
+5/12/2025 | 4:13:58 PM | INFO | Login successful... 
+5/12/2025 | 4:13:58 PM | INFO | Trying to check user info... 
+5/12/2025 | 4:13:59 PM | INFO | User ID: 102959352 | Twitter: @rismaawardani | Total Points: 1872000 
+5/12/2025 | 4:13:59 PM | INFO | Trying to check user miner status... 
+5/12/2025 | 4:14:04 PM | INFO | Last mining time: 5/11/2025, 12:58:00 AM
+5/12/2025 | 4:14:04 PM | INFO | Trying to start Mining for wallet: 0x09172Ac49EcDd1488957b2F4dFf4D2F90412B93e 
+5/12/2025 | 4:14:10 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/12/2025 | 4:14:10 PM | INFO | Trying to activate mining on-chain for wallet: 0x09172Ac49EcDd1488957b2F4dFf4D2F90412B93e 
+5/12/2025 | 4:14:27 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xa56e621fbbce80373a1bb7c652493b9de3311f2514dd318aafcb565106dab2c0 
